@@ -27,8 +27,8 @@
      Balon2.formar="redonda";
 
      System.out.println("el nombre de su Balon2 es:"+Balon2.nombre);
-     System.out.println("el dimenciones de su Balon2 es:".+Balon2.dimenciones);
-     System.out.println("el texturas de su Balon2  es:".+Balon2.textura);
+     System.out.println("el dimenciones de su Balon2 es:"+ Balon2.dimenciones);
+     System.out.println("el texturas de su Balon2  es:"+Balon2.textura);
      System.out.println("el formar de su Balon2 es:"+Balon2.formar);
 
      Balon  Balon3 =new Balon();
